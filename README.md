@@ -34,4 +34,4 @@ $ npm install gh-pages --save-dev
 $ npm run deply
 ```
 
-*** That's it your app is now accessible at ```homepage``` link.
+*** That's it your app is now accessible at ```homepage``` link. ***
