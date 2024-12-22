@@ -28,3 +28,10 @@ $ npm install gh-pages --save-dev
     "deploy": "gh-pages -d build"
 }
 ```
+3. Generate a production build of your app, and deploy it to Github Pages.
+
+```sh
+$ npm run deply
+```
+
+*** That's it your app is now accessible at ```homepage``` link.
