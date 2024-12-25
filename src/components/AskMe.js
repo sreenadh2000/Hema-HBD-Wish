@@ -13,7 +13,6 @@ const AskMe = () => {
   const checkContentwithIndex = () => {
     const index = JsonQuestions.indexOf(question);
     let quetoFromAnswers ="";
-    console.log("index ",index);
     if(index >= 0){
       quetoFromAnswers = JsonAnswers[index];
     }
