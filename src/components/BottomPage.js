@@ -7,7 +7,6 @@ function BottomPage() {
   const [showText, setShowText] = useState(false);
 
   useEffect(() => {
-    // Add a delay to show the text with the animation
     const timer = setTimeout(() => {
       setShowText(true);
     }, 500);
