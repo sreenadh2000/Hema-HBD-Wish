@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hema-HBD-Wish/static/css/main.6fcf8a58.css",
-    "main.js": "/Hema-HBD-Wish/static/js/main.d93f254f.js",
+    "main.css": "/Hema-HBD-Wish/static/css/main.ac2ebf2f.css",
+    "main.js": "/Hema-HBD-Wish/static/js/main.0c1adbc8.js",
     "static/media/Wish.mp4": "/Hema-HBD-Wish/static/media/Wish.361cb526171a5fd08c37.mp4",
     "static/media/With coolDrink.png": "/Hema-HBD-Wish/static/media/With coolDrink.871c2c0379daf03ae79f.png",
     "static/media/Btm.jpg": "/Hema-HBD-Wish/static/media/Btm.6344585501fddb5dfa9b.jpg",
     "index.html": "/Hema-HBD-Wish/index.html",
-    "main.6fcf8a58.css.map": "/Hema-HBD-Wish/static/css/main.6fcf8a58.css.map",
-    "main.d93f254f.js.map": "/Hema-HBD-Wish/static/js/main.d93f254f.js.map"
+    "main.ac2ebf2f.css.map": "/Hema-HBD-Wish/static/css/main.ac2ebf2f.css.map",
+    "main.0c1adbc8.js.map": "/Hema-HBD-Wish/static/js/main.0c1adbc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fcf8a58.css",
-    "static/js/main.d93f254f.js"
+    "static/css/main.ac2ebf2f.css",
+    "static/js/main.0c1adbc8.js"
   ]
 }
